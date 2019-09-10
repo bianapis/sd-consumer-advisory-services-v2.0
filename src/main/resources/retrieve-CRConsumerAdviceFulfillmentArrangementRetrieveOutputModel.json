@@ -1,0 +1,32 @@
+{
+  "consumerAdviceFulfillmentArrangementInstanceAnalysis" : {
+    "consumerAdviceFulfillmentArrangementInstanceAnalysisReportType" : "consumerAdviceFulfillmentArrangementInstanceAnalysisReportType",
+    "consumerAdviceFulfillmentArrangementInstanceAnalysisReport" : {},
+    "consumerAdviceFulfillmentArrangementInstanceAnalysisData" : "consumerAdviceFulfillmentArrangementInstanceAnalysisData"
+  },
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "productInstanceReference" : "725064",
+    "employeeBusinessUnitReference" : "716624",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "customerReference" : "763269",
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "705901",
+    "bankBranchLocationReference" : "780783"
+  },
+  "consumerAdviceFulfillmentArrangementInstanceReportRecord" : {
+    "consumerAdviceFulfillmentArrangementInstanceReportData" : "consumerAdviceFulfillmentArrangementInstanceReportData",
+    "consumerAdviceFulfillmentArrangementInstanceReportType" : "consumerAdviceFulfillmentArrangementInstanceReportType",
+    "consumerAdviceFulfillmentArrangementInstanceReport" : {}
+  },
+  "consumerAdviceFulfillmentArrangementRetrieveActionTaskReference" : "CAFARATR778169",
+  "consumerAdviceFulfillmentArrangementRetrieveActionResponse" : "consumerAdviceFulfillmentArrangementRetrieveActionResponse",
+  "consumerAdviceFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}

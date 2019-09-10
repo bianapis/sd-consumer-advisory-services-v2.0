@@ -1,0 +1,19 @@
+{
+  "consumerAdviceFulfillmentArrangementInitiateActionReference" : "CAFAIAR736351",
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "productInstanceReference" : "773830",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "documentDirectoryEntryInstanceReference" : "704207"
+  },
+  "consumerAdviceFulfillmentArrangementInitiateActionRecord" : {},
+  "consumerAdviceFulfillmentArrangementInstanceReference" : "CAFAIR722086",
+  "consumerAdviceFulfillmentArrangementInstanceStatus" : "consumerAdviceFulfillmentArrangementInstanceStatus"
+}

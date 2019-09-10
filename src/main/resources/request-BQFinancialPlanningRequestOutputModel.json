@@ -1,0 +1,10 @@
+{
+  "financialPlanningRequestRecordReference" : "FPRRR776290",
+  "financialPlanningRequestActionTaskReference" : "FPRATR773600",
+  "financialPlanningRequestActionTaskRecord" : {},
+  "financialPlanningInstanceRecord" : {
+    "productServiceReference" : "729180",
+    "financialPlanningAdviceResult" : "financialPlanningAdviceResult"
+  },
+  "requestResponseRecord" : {}
+}

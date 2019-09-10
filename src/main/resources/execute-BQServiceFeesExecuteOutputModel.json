@@ -1,0 +1,13 @@
+{
+  "serviceFeesExecuteActionTaskRecord" : {},
+  "serviceFeesExecuteRecordReference" : "SFERR724725",
+  "executeResponseRecord" : {},
+  "serviceFeesExecuteActionTaskReference" : "SFEATR700926",
+  "serviceFeesInstanceRecord" : {
+    "feeApplicationRecord" : {
+      "feeTransaction" : {
+        "feeTransactionType" : "feeTransactionType"
+      }
+    }
+  }
+}

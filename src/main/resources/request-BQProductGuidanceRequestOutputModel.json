@@ -1,0 +1,15 @@
+{
+  "productGuidanceRequestActionTaskReference" : "PGRATR713519",
+  "productGuidanceRequestRecordReference" : "PGRRR749644",
+  "productGuidanceInstanceRecord" : {
+    "productServiceReference" : "765961",
+    "productGuidanceAdviceResult" : "productGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "770780"
+    }
+  },
+  "productGuidanceRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

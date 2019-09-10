@@ -1,0 +1,24 @@
+{
+  "financialPlanningInstanceReference" : "FPIR754423",
+  "financialPlanningInitiateActionReference" : "FPIAR772738",
+  "financialPlanningInitiateActionRecord" : {},
+  "financialPlanningInstanceStatus" : "financialPlanningInstanceStatus",
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "employeeBusinessUnitReference" : "749565",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "734514",
+    "bankBranchLocationReference" : "734906"
+  },
+  "financialPlanningInstanceRecord" : {
+    "financialPlanningAdviceResult" : "financialPlanningAdviceResult"
+  }
+}

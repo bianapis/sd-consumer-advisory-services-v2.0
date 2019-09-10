@@ -1,0 +1,9 @@
+{
+  "taxOptimizationUpdateActionTaskRecord" : {},
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "757561",
+    "taxOptimizationAdviceResult" : "taxOptimizationAdviceResult"
+  },
+  "updateResponseRecord" : {},
+  "taxOptimizationUpdateActionTaskReference" : "TOUATR767977"
+}

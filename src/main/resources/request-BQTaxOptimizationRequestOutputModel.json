@@ -1,0 +1,10 @@
+{
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "776701",
+    "taxOptimizationAdviceResult" : "taxOptimizationAdviceResult"
+  },
+  "taxOptimizationRequestActionTaskReference" : "TORATR715510",
+  "taxOptimizationRequestActionTaskRecord" : {},
+  "taxOptimizationRequestRecordReference" : "TORRR722203",
+  "requestResponseRecord" : {}
+}

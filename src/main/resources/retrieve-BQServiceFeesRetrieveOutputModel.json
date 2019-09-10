@@ -1,0 +1,26 @@
+{
+  "serviceFeesInstanceReport" : {
+    "serviceFeesInstanceReport" : {},
+    "serviceFeesInstanceReportType" : "serviceFeesInstanceReportType",
+    "serviceFeesInstanceReportParameters" : "serviceFeesInstanceReportParameters",
+    "serviceFeesInstanceReportRecord" : {}
+  },
+  "serviceFeesInstanceAnalysis" : {
+    "serviceFeesInstanceAnalysisReport" : {},
+    "serviceFeesInstanceAnalysisParameters" : "serviceFeesInstanceAnalysisParameters",
+    "serviceFeesInstanceAnalysisReportType" : "serviceFeesInstanceAnalysisReportType",
+    "serviceFeesInstanceAnalysisRecord" : {}
+  },
+  "serviceFeesRetrieveActionTaskReference" : "SFRATR726075",
+  "serviceFeesRetrieveActionResponse" : "serviceFeesRetrieveActionResponse",
+  "serviceFeesRetrieveActionTaskRecord" : {},
+  "serviceFeesInstanceRecord" : {
+    "feeApplicationRecord" : {
+      "feeTransaction" : {
+        "feeTransactionCharge" : "USD 250",
+        "feeTransactionDescription" : "feeTransactionDescription",
+        "feeTransactionType" : "feeTransactionType"
+      }
+    }
+  }
+}

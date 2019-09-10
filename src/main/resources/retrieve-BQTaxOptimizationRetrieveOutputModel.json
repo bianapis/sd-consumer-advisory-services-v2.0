@@ -1,0 +1,21 @@
+{
+  "taxOptimizationRetrieveActionTaskReference" : "TORATR724287",
+  "taxOptimizationRetrieveActionResponse" : "taxOptimizationRetrieveActionResponse",
+  "taxOptimizationInstanceAnalysis" : {
+    "taxOptimizationInstanceAnalysisReportType" : "taxOptimizationInstanceAnalysisReportType",
+    "taxOptimizationInstanceAnalysisReport" : {},
+    "taxOptimizationInstanceAnalysisParameters" : "taxOptimizationInstanceAnalysisParameters",
+    "taxOptimizationInstanceAnalysisRecord" : {}
+  },
+  "taxOptimizationInstanceRecord" : {
+    "productServiceReference" : "790280",
+    "taxOptimizationAdviceResult" : "taxOptimizationAdviceResult"
+  },
+  "taxOptimizationRetrieveActionTaskRecord" : {},
+  "taxOptimizationInstanceReport" : {
+    "taxOptimizationInstanceReportRecord" : {},
+    "taxOptimizationInstanceReportParameters" : "taxOptimizationInstanceReportParameters",
+    "taxOptimizationInstanceReportType" : "taxOptimizationInstanceReportType",
+    "taxOptimizationInstanceReport" : {}
+  }
+}

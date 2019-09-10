@@ -1,0 +1,21 @@
+{
+  "financialPlanningRetrieveActionTaskReference" : "FPRATR700495",
+  "financialPlanningInstanceReport" : {
+    "financialPlanningInstanceReportRecord" : {},
+    "financialPlanningInstanceReport" : {},
+    "financialPlanningInstanceReportType" : "financialPlanningInstanceReportType",
+    "financialPlanningInstanceReportParameters" : "financialPlanningInstanceReportParameters"
+  },
+  "financialPlanningInstanceAnalysis" : {
+    "financialPlanningInstanceAnalysisRecord" : {},
+    "financialPlanningInstanceAnalysisParameters" : "financialPlanningInstanceAnalysisParameters",
+    "financialPlanningInstanceAnalysisReportType" : "financialPlanningInstanceAnalysisReportType",
+    "financialPlanningInstanceAnalysisReport" : {}
+  },
+  "financialPlanningRetrieveActionResponse" : "financialPlanningRetrieveActionResponse",
+  "financialPlanningRetrieveActionTaskRecord" : {},
+  "financialPlanningInstanceRecord" : {
+    "productServiceReference" : "712633",
+    "financialPlanningAdviceResult" : "financialPlanningAdviceResult"
+  }
+}

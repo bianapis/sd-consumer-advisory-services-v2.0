@@ -1,0 +1,9 @@
+{
+  "updateResponseRecord" : {},
+  "financialPlanningUpdateActionTaskRecord" : {},
+  "financialPlanningUpdateActionTaskReference" : "FPUATR713338",
+  "financialPlanningInstanceRecord" : {
+    "productServiceReference" : "771552",
+    "financialPlanningAdviceResult" : "financialPlanningAdviceResult"
+  }
+}

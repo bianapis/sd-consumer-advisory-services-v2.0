@@ -1,0 +1,22 @@
+{
+  "consumerAdviceFulfillmentArrangementUpdateActionTaskReference" : "CAFAUATR781087",
+  "consumerAdviceFulfillmentArrangementUpdateActionTaskRecord" : {},
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "productInstanceReference" : "756034",
+    "employeeBusinessUnitReference" : "710640",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "customerReference" : "777705",
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "766833",
+    "bankBranchLocationReference" : "784604"
+  },
+  "updateResponseRecord" : {}
+}

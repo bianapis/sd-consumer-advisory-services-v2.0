@@ -1,0 +1,14 @@
+{
+  "serviceFeesUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "serviceFeesInstanceRecord" : {
+    "feeApplicationRecord" : {
+      "feeTransaction" : {
+        "feeTransactionCharge" : "USD 250",
+        "feeTransactionDescription" : "feeTransactionDescription",
+        "feeTransactionType" : "feeTransactionType"
+      }
+    }
+  },
+  "serviceFeesUpdateActionTaskReference" : "SFUATR798412"
+}

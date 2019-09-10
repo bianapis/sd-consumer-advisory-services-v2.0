@@ -1,0 +1,29 @@
+{
+  "productGuidanceInitiateActionReference" : "PGIAR722813",
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "employeeBusinessUnitReference" : "798982",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "728532",
+    "bankBranchLocationReference" : "785174"
+  },
+  "productGuidanceInstanceStatus" : "productGuidanceInstanceStatus",
+  "productGuidanceInstanceReference" : "PGIR757304",
+  "productGuidanceInitiateActionRecord" : {},
+  "productGuidanceInstanceRecord" : {
+    "productGuidanceAdviceResult" : "productGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "777931"
+    }
+  }
+}

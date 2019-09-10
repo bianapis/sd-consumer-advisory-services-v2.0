@@ -1,0 +1,14 @@
+{
+  "productGuidanceUpdateActionTaskReference" : "PGUATR755144",
+  "productGuidanceUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "productGuidanceInstanceRecord" : {
+    "productServiceReference" : "786655",
+    "productGuidanceAdviceResult" : "productGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "729071"
+    }
+  }
+}

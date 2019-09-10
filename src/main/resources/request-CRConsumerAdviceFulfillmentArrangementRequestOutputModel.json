@@ -1,0 +1,21 @@
+{
+  "requestRecordReference" : "RRR722994",
+  "consumerAdviceFulfillmentArrangementInstanceRecord" : {
+    "consumerAdviceProfile" : {
+      "adviceType" : "adviceType"
+    },
+    "employeeBusinessUnitReference" : "736187",
+    "consumerAdviceSessionSchedule" : "consumerAdviceSessionSchedule",
+    "dateType" : {
+      "date" : "09-22-2018"
+    },
+    "consumerAdviceConsolidationRecord" : {},
+    "consumerAdviceWorkProducts" : "consumerAdviceWorkProducts",
+    "customerPositionStateInstanceRecord" : {},
+    "documentDirectoryEntryInstanceReference" : "732601",
+    "bankBranchLocationReference" : "725146"
+  },
+  "consumerAdviceFulfillmentArrangementRequestActionTaskRecord" : {},
+  "consumerAdviceFulfillmentArrangementRequestActionTaskReference" : "CAFARATR730522",
+  "requestResponseRecord" : {}
+}

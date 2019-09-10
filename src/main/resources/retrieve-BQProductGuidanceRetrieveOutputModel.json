@@ -1,0 +1,26 @@
+{
+  "productGuidanceRetrieveActionResponse" : "productGuidanceRetrieveActionResponse",
+  "productGuidanceRetrieveActionTaskRecord" : {},
+  "productGuidanceInstanceReport" : {
+    "productGuidanceInstanceReportParameters" : "productGuidanceInstanceReportParameters",
+    "productGuidanceInstanceReport" : {},
+    "productGuidanceInstanceReportType" : "productGuidanceInstanceReportType",
+    "productGuidanceInstanceReportRecord" : {}
+  },
+  "productGuidanceInstanceAnalysis" : {
+    "productGuidanceInstanceAnalysisParameters" : "productGuidanceInstanceAnalysisParameters",
+    "productGuidanceInstanceAnalysisReport" : {},
+    "productGuidanceInstanceAnalysisReportType" : "productGuidanceInstanceAnalysisReportType",
+    "productGuidanceInstanceAnalysisRecord" : {}
+  },
+  "productGuidanceInstanceRecord" : {
+    "productServiceReference" : "738508",
+    "productGuidanceAdviceResult" : "productGuidanceAdviceResult",
+    "specialistSupportTask" : {
+      "specialistAdviceCharge" : "USD 250",
+      "specialistAdviceDescription" : "specialistAdviceDescription",
+      "specialistEmployeeBusinessUnitReference" : "796949"
+    }
+  },
+  "productGuidanceRetrieveActionTaskReference" : "PGRATR725893"
+}
